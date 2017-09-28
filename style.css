@@ -1,0 +1,9 @@
+/*
+ Theme Name:   pi
+ Description:  Child theme, based on Twenty Seventeen
+ Template:     twentyseventeen
+ Version:      1.0.0
+ Text Domain:  twenty-seventeen-child
+*/
+
+@import '../twentyseventeen/style.css'
